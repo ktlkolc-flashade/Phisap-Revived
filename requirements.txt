@@ -1,0 +1,4 @@
+av
+numpy>=2.0.0
+rich==13.3.4
+numba

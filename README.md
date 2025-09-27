@@ -127,7 +127,6 @@ Phisap 维护版 - 项目重启公告
 
 <ol>
 
-<li>关键！黑皇帝我目前试过无法，想要解锁rrhar你们还是自觉打吧</li>
 
 <li><strong>保持项目活力</strong>：定期更新以支持新游戏版本</li>
 
@@ -152,131 +151,15 @@ Phisap 维护版 - 项目重启公告
 
 </ul>
 
+<ul>
+重要说明⚠
+<li><input type="checkbox"> 黑皇帝使用这个打非常困难！到最后可能只有60万分！</li>
+
+</ul>
+
 <hr>
 
 <p>其余部分保持原README内容不变，但会随着开发进度逐步更新。建议开发者关注<code>dev</code>分支获取最新进展。</p>
 
 <p><strong>欢迎通过Issue提交问题或建议！</strong> 让我们共同完善这个项目！</p>
-
-<style>
-
-body {
-
-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-
-line-height: 1.6;
-
-color: #24292e;
-
-max-width: 800px;
-
-margin: 0 auto;
-
-padding: 20px;
-
-}
-
-h1, h2, h3, h4 {
-
-color: #0366d6;
-
-margin-top: 1.5em;
-
-margin-bottom: 0.5em;
-
-}
-
-table {
-
-border-collapse: collapse;
-
-width: 100%;
-
-margin-bottom: 1em;
-
-}
-
-th, td {
-
-border: 1px solid #dfe2e5;
-
-padding: 6px 13px;
-
-text-align: left;
-
-}
-
-th {
-
-background-color: #f6f8fa;
-
-font-weight: 600;
-
-}
-
-ul, ol {
-
-padding-left: 2em;
-
-margin-bottom: 1em;
-
-}
-
-li {
-
-margin-bottom: 0.5em;
-
-}
-
-code {
-
-background-color: #f6f8fa;
-
-padding: 0.2em 0.4em;
-
-border-radius: 3px;
-
-font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
-
-}
-
-hr {
-
-height: 1px;
-
-background-color: #e1e4e8;
-
-border: none;
-
-margin: 2em 0;
-
-}
-
-a {
-
-color: #0366d6;
-
-text-decoration: none;
-
-}
-
-a:hover {
-
-text-decoration: underline;
-
-}
-
-img {
-
-max-width: 100%;
-
-}
-
-.center {
-
-text-align: center;
-
-}
-
-</style>
 
